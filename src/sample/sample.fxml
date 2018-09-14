@@ -127,7 +127,7 @@
                         <Font name="System Bold" size="49.0" />
                     </font>
                 </Label>
-                <JFXButton layoutX="154.0" layoutY="380.0" onMouseClicked="#onPlayButtonClicked" prefHeight="25.0" prefWidth="58.0" style="-fx-background-color: #2e4e9b;" text="Listo">
+                <JFXButton layoutX="154.0" layoutY="380.0" onAction="#OnGame" prefHeight="25.0" prefWidth="58.0" style="-fx-background-color: #2e4e9b;" text="Listo">
                     <font>
                         <Font name="System Bold" size="14.0" />
                     </font>

@@ -4,10 +4,16 @@ package sample;
 import com.jfoenix.controls.JFXTextField;
 import javafx.application.Platform;
 import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.KeyEvent;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
+import javafx.stage.Stage;
+
+import java.io.IOException;
 
 public class Controller {
     @FXML
@@ -42,8 +48,8 @@ public class Controller {
     public void onReadyButtonClicked(MouseEvent event) {
         this.RegistroPanel.setVisible(false);
         this.InicialPanel.setVisible(false);
-        this.EsperaPanel.setVisible(true);
-        this.ContricantePanel.setVisible(false);
+        this.EsperaPanel.setVisible(false);
+        this.ContricantePanel.setVisible(true);
     }
 
     public void onPlayButtonClicked(MouseEvent event) {
@@ -53,7 +59,10 @@ public class Controller {
         this.ContricantePanel.setVisible(false);
     }
 
-
+    @FXML
+    public void OnGame() throws IOException {
+       Main.setScene("Game.fxml");
+    }
     public void handle(KeyEvent event) {
         Object temp0 = event.getSource();
         if (this.willConsume) {

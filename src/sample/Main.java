@@ -2,22 +2,30 @@ package sample;
 
 import javafx.application.Application;
 import javafx.event.EventHandler;
+import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.input.MouseEvent;
+import javafx.scene.layout.AnchorPane;
 import javafx.scene.paint.Color;
+import javafx.scene.shape.Line;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
+
+import java.io.IOException;
 
 public class Main extends Application {
     private double xOffset;
     private double yOffset;
+    static Stage game;
+
 
     public Main() {
     }
 
     public void start(final Stage primaryStage) throws Exception {
+        Main.game=primaryStage;
         Parent root = (Parent)FXMLLoader.load(this.getClass().getResource("sample.fxml"));
         root.setOnMousePressed(new EventHandler<MouseEvent>() {
             public void handle(MouseEvent event) {
@@ -38,6 +46,13 @@ public class Main extends Application {
         primaryStage.setScene(scene);
         primaryStage.show();
     }
+    static void setScene(String scene_route) throws IOException{
+        Parent root= FXMLLoader.load(Main.class.getResource(scene_route));
+        Scene scene = new Scene(root);
+        game.setScene(scene);
+
+    }
+
 
     public static void main(String[] args) {
         launch(args);
