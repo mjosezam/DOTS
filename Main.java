@@ -1,27 +1,3 @@
-<<<<<<< HEAD
-package com.company;
-
-import org.json.simple.JSONObject;
-
-import java.io.IOException;
-import java.io.OutputStreamWriter;
-import java.net.ServerSocket;
-import java.net.Socket;
-
-public class Main{
-
-
-    public static void main(String[] args){
-        Game gametrial = new Game();
-        Path trial = new Path(gametrial.Malla);
-        trial.CoordsToNode("{\"y1\":81,\"x1\":81,\"y2\":162,\"x2\":162}");
-
-
-    }
-
-    }
-
-=======
 package com.company;
 
 public class Main{
@@ -70,6 +46,19 @@ public class Main{
         }
     }
 
+    public static void naming(DoubleLinkedList<DoubleLinkedList<Integer>> malla){
+        for (int i = 0; i < malla.getSize(); i++) {
+
+            DoubleLinkedList<Integer> line = malla.getNode(i).getData();
+
+            for (int j = 0; j < line.getSize(); j++) {
+                Node<Integer> Nodo = malla.getNode(i).getData().getNode(j);
+                Nodo.setData(j + (6 * i));
+            }
+        }
+
+    }
+
     public static void main(String[] args) {
         DoubleLinkedList<Integer> L1 = new DoubleLinkedList<Integer>();
         DoubleLinkedList<Integer> L2 = new DoubleLinkedList<Integer>();
@@ -82,17 +71,18 @@ public class Main{
         Malla.append(L2);
         Malla.append(L3);
         Malla.append(L4);
-
+        Malla.append(L5);
+        Malla.append(L6);
         fillup(L1);
         fillup(L2);
         fillup(L3);
         fillup(L4);
-
-        Node<Integer> Nodo1 = Malla.getNode(0).getData().getNode(0);
-        Nodo1.setData(1);
-
+        fillup(L5);
+        fillup(L6);
+        naming(Malla);
+        Adjacent ad = new Adjacent();
+        ad.Seters(Malla);
         display(Malla);
 
     }
 }
->>>>>>> 62b85a8cec4d91ebe63beef7dce4b9e2c512b6d9
