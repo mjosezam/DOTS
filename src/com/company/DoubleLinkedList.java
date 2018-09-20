@@ -26,7 +26,7 @@ public class DoubleLinkedList<T> {
 
     public void append(T data){
         Node<T> newNode=new Node<T>(data);
-        Node tmp=this.head;
+        Node<T> tmp=this.head;
         if (this.head==null){
             this.head=newNode;
             this.size++;

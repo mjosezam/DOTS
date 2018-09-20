@@ -1,7 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ef09db2-a149-45b4-8f90-9285e3a4690e" name="Default Changelist" comment="" />
+    <list default="true" id="1ef09db2-a149-45b4-8f90-9285e3a4690e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DOTS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DOTS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DOTS/com/company/Adjacent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DOTS/com/company/Adjacent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DOTS/com/company/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DOTS/com/company/DoubleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DOTS/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DOTS/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DOTS/com/company/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DOTS/com/company/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DOTS/com/company/RecursivePath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/.idea/libraries/jfoenix_8_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Adjacent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Adjacent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/DOTS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/out/production/DOTS/com/company/Adjacent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/out/production/DOTS/com/company/DoubleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/out/production/DOTS/com/company/Figures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/out/production/DOTS/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/out/production/DOTS/com/company/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/out/production/DOTS/com/company/RecursivePath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/out/production/DOTS/com/company/SimpleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/src/com/company/Adjacent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/src/com/company/DoubleLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/src/com/company/Figures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/src/com/company/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/src/com/company/RecursivePath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DOTS/src/com/company/SimpleLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SimpleLinkedListLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SimpleLinkedListLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/DOTS/com/company/DoubleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/DOTS/com/company/Figures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/DOTS/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/DOTS/com/company/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/DOTS/com/company/RecursivePath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/DOTS/com/company/SimpleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Game.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Game_Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/Fondo_juego.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/fondo_inicio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/loading1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/loading2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/loading3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/loading4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/loading5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/loading6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/loading7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/loading8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Image/salir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/out/production/Prueba 1/sample/segmento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/com/company/DoubleLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/com/company/Figures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/com/company/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/com/company/RecursivePath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/com/company/SimpleLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Game.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Game_Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/Fondo_juego.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/fondo_inicio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/loading1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/loading2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/loading3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/loading4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/loading5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/loading6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/loading7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/loading8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Image/salir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/src/sample/segmento.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,80 +104,63 @@
     <session id="-1251045535">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6543" />
+          <entry key="java" value="11666" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6543" />
+          <entry key="JAVA" value="11666" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="9" />
+          <entry key="java" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="49" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+            <state relative-caret-position="255">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
               <folding>
-                <element signature="method#display#0;class#Main#0" />
-                <element signature="e#318#327#0" expanded="true" />
-                <element signature="e#390#399#0" expanded="true" />
-                <element signature="e#462#471#0" expanded="true" />
-                <element signature="e#534#543#0" expanded="true" />
-                <element signature="e#606#615#0" expanded="true" />
-                <element signature="e#678#687#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/DoubleLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/EchoThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="278">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/RecursivePath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-              <folding>
-                <element signature="method#PosiblePaths#0;class#RecursivePath#0" />
-                <element signature="method#PathWay#0;class#RecursivePath#0" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#EchoThread#0;class#EchoThread#0" />
               </folding>
             </state>
           </provider>
@@ -95,55 +169,88 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="72" column="31" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
+            <state relative-caret-position="221">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding>
-                <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#1056#1057#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
-                <element signature="e#1135#1136#0" expanded="true" />
-                <element signature="e#1194#1195#0" expanded="true" />
-                <element signature="e#1224#1225#0" expanded="true" />
-                <element signature="e#1276#1277#0" expanded="true" />
-                <element signature="e#1308#1309#0" expanded="true" />
-                <element signature="e#1344#1345#0" expanded="true" />
-                <element signature="e#1374#1375#0" expanded="true" />
-                <element signature="e#1410#1411#0" expanded="true" />
-                <element signature="e#1440#1441#0" expanded="true" />
-                <element signature="e#1478#1479#0" expanded="true" />
-                <element signature="e#1510#1511#0" expanded="true" />
-                <element signature="e#1690#1691#0" expanded="true" />
-                <element signature="e#1724#1725#0" expanded="true" />
-                <element signature="e#1758#1759#0" expanded="true" />
-                <element signature="e#1786#1787#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Figures.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SimpleLinkedListLines.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="340">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/SimpleLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="374">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Adjacent.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/JSONManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+            <state relative-caret-position="373">
+              <caret line="38" column="25" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Path.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+              <folding>
+                <element signature="method#fillup#0;class#Game#0" />
+                <element signature="method#naming#0;class#Game#0" />
+                <element signature="method#display#0;class#Game#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/ThreadedEchoServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,24 +272,42 @@
       <replace>insert</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com/company" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/RecursivePath.java" />
         <option value="$PROJECT_DIR$/src/com/company/Figures.java" />
         <option value="$PROJECT_DIR$/src/com/company/SimpleLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/com/company/DoubleLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Node.java" />
         <option value="$PROJECT_DIR$/src/com/company/Adjacent.java" />
+        <option value="$PROJECT_DIR$/src/com/company/DoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/company/RecursivePath.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/SimpleLinkedListLines.java" />
+        <option value="$PROJECT_DIR$/src/com/company/src/com/company/SimpleLinkedListLines.java" />
+        <option value="$PROJECT_DIR$/src/com/company/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Server.java" />
+        <option value="$PROJECT_DIR$/src/com/company/JSONManager.java" />
+        <option value="$PROJECT_DIR$/src/com/company/NetworkClient.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ThreadedEchoServer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Game.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SimpleLinkedListLines.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/company/EchoThread.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Path.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="651" />
-    <option name="y" value="9" />
-    <option name="width" value="685" />
-    <option name="height" value="728" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="-17" />
+    <option name="width" value="980" />
+    <option name="height" value="781" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,7 +343,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537079236216" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537482705125" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/json-simple-1.1.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RunDashboard">
@@ -233,7 +362,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Client" />
+      <module name="DOTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.EchoThread" />
+      <module name="DOTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="DOTS" />
@@ -244,9 +399,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Server" />
+      <module name="DOTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadedEchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ThreadedEchoServer" />
+      <module name="DOTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.ThreadedEchoServer" />
+      <item itemvalue="Application.EchoThread" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ThreadedEchoServer" />
+        <item itemvalue="Application.EchoThread" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
       </list>
     </recent_temporary>
   </component>
@@ -264,10 +456,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.0113464445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15279879" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -275,15 +467,15 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7938671" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29471892" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.318569" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
@@ -295,7 +487,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24962178" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0113464445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1505295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -304,14 +496,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7938671" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.323993" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.318569" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
@@ -338,93 +530,232 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/DOTS/src/com/company/Adjacent.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Adjacent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JSON/src/WriteJSONExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/DoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_JSON_demo-master.zip/JSON_demo-master/JSON_Test/src/com/tec/JSON/Molde.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_JSON_demo-master.zip/JSON_demo-master/JSON_Test/src/com/tec/JSON/Transformador.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_JSON_demo-master.zip/JSON_demo-master/JSON_Test/src/com/tec/JSON/main_json.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/SimpleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/NetworkClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Figures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="72" column="31" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
+        <state relative-caret-position="318">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding>
-            <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1135#1136#0" expanded="true" />
-            <element signature="e#1194#1195#0" expanded="true" />
-            <element signature="e#1224#1225#0" expanded="true" />
-            <element signature="e#1276#1277#0" expanded="true" />
-            <element signature="e#1308#1309#0" expanded="true" />
-            <element signature="e#1344#1345#0" expanded="true" />
-            <element signature="e#1374#1375#0" expanded="true" />
-            <element signature="e#1410#1411#0" expanded="true" />
-            <element signature="e#1440#1441#0" expanded="true" />
-            <element signature="e#1478#1479#0" expanded="true" />
-            <element signature="e#1510#1511#0" expanded="true" />
-            <element signature="e#1690#1691#0" expanded="true" />
-            <element signature="e#1724#1725#0" expanded="true" />
-            <element signature="e#1758#1759#0" expanded="true" />
-            <element signature="e#1786#1787#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/RecursivePath.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="567">
+          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
           <folding>
-            <element signature="method#PosiblePaths#0;class#RecursivePath#0" />
-            <element signature="method#PathWay#0;class#RecursivePath#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Adjacent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/DoubleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
+            <element signature="method#fillup#0;class#Game#0" />
+            <element signature="method#naming#0;class#Game#0" />
+            <element signature="method#display#0;class#Game#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
           <folding>
-            <element signature="method#display#0;class#Main#0" />
-            <element signature="e#318#327#0" expanded="true" />
-            <element signature="e#390#399#0" expanded="true" />
-            <element signature="e#462#471#0" expanded="true" />
-            <element signature="e#534#543#0" expanded="true" />
-            <element signature="e#606#615#0" expanded="true" />
-            <element signature="e#678#687#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ThreadedEchoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SimpleLinkedListLines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/EchoThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#EchoThread#0;class#EchoThread#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/JSONManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DOTS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>json-simple-1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
