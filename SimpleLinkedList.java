@@ -1,4 +1,4 @@
-package com.company;
+package DOTS;
 
 public class SimpleLinkedList<T> {
     private Node<T> head;
