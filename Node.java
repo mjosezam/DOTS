@@ -1,4 +1,4 @@
-package com.company;
+package DOTS;
 
 public class Node<T> {
     public Node prev;
@@ -12,7 +12,7 @@ public class Node<T> {
     private Node drd;
     private Node dlu;
     private Node dld;
-    private SimpleLinkedListLines<Node<Integer>> lineas;
+    public SimpleLinkedListLines<Node<Integer>> lineas;
 
     public Node(T data) {
         this.next=null;

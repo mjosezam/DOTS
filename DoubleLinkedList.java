@@ -1,6 +1,4 @@
-package com.company;
-
-import java.sql.SQLOutput;
+package DOTS;
 
 public class DoubleLinkedList<T> {
     private Node<T> head;
@@ -87,10 +85,10 @@ public class DoubleLinkedList<T> {
         }
         else{
             current = current.next;
-            }
+        }
         return current;
     }
 
-    }
+}
 
 

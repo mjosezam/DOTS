@@ -1,4 +1,4 @@
-package com.company;
+package DOTS;
 
 public class SimpleLinkedListLines<T> {
     private ListNode<T> head;
@@ -16,8 +16,8 @@ public class SimpleLinkedListLines<T> {
 
 
 
-    public void append(T ps, T pll) {
-        ListNode<T> newNode = new ListNode<T>(ps,pll);
+    public void append(T data) {
+        ListNode<T> newNode = new ListNode<T>(data);
         ListNode<T> tmp = this.head;
         if (this.head == null) {
             this.head = newNode;
@@ -46,5 +46,3 @@ public class SimpleLinkedListLines<T> {
         return null;
     }
 }
-
-
